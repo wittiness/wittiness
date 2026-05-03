@@ -2,49 +2,57 @@
 
 # 👋 what's up nerds and virgins
 
-*“It's not that I'm so smart, it's just that I stay with problems longer.” - Albert Einstein*
-
-## About Me
-
-i'm the type who gets way too excited about code that actually works and will definitely have thoughts about how you wrote yours. i build stuff, break it to see what happens, then spend forever trying to make it perfect
-
-my browser always has like 40 tabs open, mostly stack overflow and docs i'm too lazy to bookmark. i can usually figure out what's wrong with your code before you finish explaining it and probably care about making things work right more than i should
-
-## Skills, Languages, and Tools
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-
-### Development Tools and Frameworks
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white)
-
-## My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/forevercynical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=forevercynical&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" alt="wittiness's GitHub Stats" width="400"/>
-  </a>
-  <a href="https://github.com/forevercynical">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=forevercynical&theme=dark&layout=compact&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="345"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forevercynical&theme=dark&background=0d1117&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=forevercynical&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+> *"It's not that I'm so smart, it's just that I stay with problems longer."* — Albert Einstein
 
 </div>
+
+---
+
+## about me
+
+i build stuff, break it, fix it, build it again. somewhere along the way i pick up a new framework i didn't ask for.
+
+i'd probably ship faster if i had fewer opinions about how everyone else writes code, but i don't, so here we are.
+
+mostly stuck in mobile lately. swift and go are roommates that don't like each other and i'm the one in the middle.
+
+---
+
+## what i actually use
+
+**languages**
+
+![TypeScript](<https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white>)
+![JavaScript](<https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>)
+![Go](<https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white>)
+![Swift](<https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white>)
+![Kotlin](<https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white>)
+![C++](<https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white>)
+![Python](<https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>)
+![SQL](<https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white>)
+
+**frontend / mobile**
+
+![React](<https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black>)
+![React Native](<https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>)
+![Next.js](<https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white>)
+![Expo](<https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white>)
+
+**backend / infra**
+
+![Node.js](<https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white>)
+![PostgreSQL](<https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white>)
+![Redis](<https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white>)
+![Cloudflare](<https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white>)
+![Supabase](<https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white>)
+![Railway](<https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white>)
+![<Fly.io>](<https://img.shields.io/badge/Fly.io-7B3FBE?style=for-the-badge&logo=flydotio&logoColor=white>)
+![WebRTC](<https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white>)
+
+**tools / observability**
+
+![Git](<https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>)
+![Docker](<https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white>)
+![Sentry](<https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white>)
+![Xcode](<https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white>)
+![Android Studio](<https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white>)
