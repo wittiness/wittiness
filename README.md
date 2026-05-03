@@ -14,8 +14,6 @@ i build stuff, break it, fix it, build it again. somewhere along the way i pick 
 
 i'd probably ship faster if i had fewer opinions about how everyone else writes code, but i don't, so here we are.
 
-mostly stuck in mobile lately. swift and go are roommates that don't like each other and i'm the one in the middle.
-
 ---
 
 ## what i actually use
